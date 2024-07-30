@@ -1,6 +1,6 @@
 How to use:
 
-1. Have python(install if u don t have)
+1. Have python (install if u don t have)
 2. Extract (if download as .rar)
 3. Run installer.bat
 4. Open Database.py
